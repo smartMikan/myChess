@@ -1,5 +1,5 @@
 # myChess
-A classic chess game made in this week
+A classic chess game
 
 Learned a little about Shader Graph
 
